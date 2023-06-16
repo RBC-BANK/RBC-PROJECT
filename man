@@ -2,3 +2,5 @@ done
 kok
 easy
 onion
+today
+rice
